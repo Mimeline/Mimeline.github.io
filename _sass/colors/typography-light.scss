@@ -16,20 +16,15 @@
   --label-color: #585858;
   --blockquote-border-color: #eeeeee;
   --blockquote-text-color: #757575;
-  --link-color: #0056b2;
+  --link-color: rgb(208, 61, 93);
   --link-underline-color: #dee2e6;
   --button-bg: #ffffff;
   --btn-border-color: #e9ecef;
-  --background-image:
-      radial-gradient(ellipse at 10% 90%, #3c2d83 0%, transparent 55%),
-      radial-gradient(ellipse at 90% 90%, #c33c65 0%, transparent 55%),
-      radial-gradient(ellipse at 90% 10%, #4a74dc 0%, transparent 55%),
-      radial-gradient(ellipse at 10% 10%, #35244f 0%, transparent 55%);
   --btn-backtotop-color: #686868;
   --btn-backtotop-border-color: #f1f1f1;
   --btn-box-shadow: #eaeaea;
   --checkbox-color: #c5c5c5;
-  --checkbox-checked-color: #07a8f7;
+  --checkbox-checked-color: rgb(208, 61, 93);
   --img-bg: radial-gradient(
     circle,
     rgb(255, 255, 255) 0%,
@@ -43,10 +38,10 @@
   );
 
   /* Sidebar */
-  --site-title-color: rgb(173, 38, 67);
-  --site-subtitle-color: rgb(123, 30, 50);
+  --site-title-color: rgb(255, 255, 255);
+  --site-subtitle-color: rgb(255, 255, 255);
 
-  --sidebar-bg : url(/assets/img/elements/couleurs.png);
+  --sidebar-bg : url(/assets/img/elements/couleurs2grain.png);
   --sidebar-border-color: #ffffff;
   --sidebar-muted-color: #545454;
   --sidebar-active-color: rgb(208, 61, 93);
@@ -68,9 +63,9 @@
   --btn-paginator-hover-color: var(--sidebar-bg);
 
   /* Posts */
-  --toc-highlight: #0550ae;
+  --toc-highlight: rgb(208, 61, 93);
   --btn-share-color: gray;
-  --btn-share-hover-color: #0d6efd;
+  --btn-share-hover-color: rgb(208, 61, 93);
   --card-bg: white;
   --card-hovor-bg: #e2e2e2;
   --card-shadow: rgb(104, 104, 104, 0.05) 0 2px 6px 0,

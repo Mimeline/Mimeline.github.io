@@ -5,6 +5,4 @@ categories: [Art]
 tages: [Art]
 --- 
 
-# My first post 
-
 Here is my first post. Be welcome on my website !
