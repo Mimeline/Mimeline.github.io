@@ -20,6 +20,11 @@
   --link-underline-color: #dee2e6;
   --button-bg: #ffffff;
   --btn-border-color: #e9ecef;
+  --background-image:
+      radial-gradient(ellipse at 10% 90%, #3c2d83 0%, transparent 55%),
+      radial-gradient(ellipse at 90% 90%, #c33c65 0%, transparent 55%),
+      radial-gradient(ellipse at 90% 10%, #4a74dc 0%, transparent 55%),
+      radial-gradient(ellipse at 10% 10%, #35244f 0%, transparent 55%);
   --btn-backtotop-color: #686868;
   --btn-backtotop-border-color: #f1f1f1;
   --btn-box-shadow: #eaeaea;
@@ -38,12 +43,12 @@
   );
 
   /* Sidebar */
-  --site-title-color: rgb(0, 255, 34);
-  --site-subtitle-color: #717171;
-  --sidebar-bg: #f6f8fa;
+  --site-title-color: rgb(173, 38, 67);
+  --site-subtitle-color: rgb(123, 30, 50);
+  --sidebar-bg: #ffd4e2;
   --sidebar-border-color: #efefef;
   --sidebar-muted-color: #545454;
-  --sidebar-active-color: #1d1d1d;
+  --sidebar-active-color: rgb(208, 61, 93);
   --sidebar-hover-bg: rgb(223, 233, 241, 0.64);
   --sidebar-btn-bg: white;
   --sidebar-btn-color: #8e8e8e;
