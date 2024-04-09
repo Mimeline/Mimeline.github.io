@@ -45,11 +45,12 @@
   /* Sidebar */
   --site-title-color: rgb(173, 38, 67);
   --site-subtitle-color: rgb(123, 30, 50);
-  --sidebar-bg: #ffd4e2;
-  --sidebar-border-color: #efefef;
+
+  --sidebar-bg : url(/assets/img/elements/couleurs.png);
+  --sidebar-border-color: #ffffff;
   --sidebar-muted-color: #545454;
   --sidebar-active-color: rgb(208, 61, 93);
-  --sidebar-hover-bg: rgb(223, 233, 241, 0.64);
+  --sidebar-hover-bg: rgba(255, 255, 255, 0.64);
   --sidebar-btn-bg: white;
   --sidebar-btn-color: #8e8e8e;
   --avatar-border-color: white;
