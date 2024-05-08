@@ -6,3 +6,5 @@ tages: [Art]
 --- 
 
 Here is my first post. Be welcome on my website !
+
+![description](/assets/img/articles_image/almostdone2anim.gif)
